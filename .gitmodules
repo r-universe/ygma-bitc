@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "tm.hyslaw"]
+	path = tm.hyslaw
+	url = https://github.com/ygma-bitc/tm.hyslaw
+[submodule "tm.ttni"]
+	path = tm.ttni
+	url = https://github.com/ygma-bitc/tm.ttni
